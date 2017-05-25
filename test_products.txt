@@ -1,0 +1,2 @@
+{"product_name":"Canon-A1200","manufacturer":"Canon","model":"A1200","family":"PowerShot","announced-date":"2011-01-04T19:00:00.000-05:00"}
+{"product_name":"Olympus_mju_550WP","manufacturer":"Olympus","model":"mju 550WP","announced-date":"2009-01-06T19:00:00.000-05:00"}
