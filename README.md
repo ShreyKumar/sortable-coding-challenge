@@ -1,7 +1,6 @@
 # Sortable Coding Challenge
 
-# Link to Github Repository
-https://github.com/ShreyKumar/sortable-coding-challenge
+Link to this Challenge: https://github.com/ShreyKumar/sortable-coding-challenge
 
 # About me
 I'm a 4th year Computer Science Student at the University of Toronto expected to graduate in November 2018 (likely to be shifted earlier). I have a lot of academic and industry experience in a variety of fields including full stack web development. I'm described by many people from my previous <a href="http://shreykumar.com/#testimonials">internships</a> as someone who can fit in well in a company atmosphere while staying productive.
