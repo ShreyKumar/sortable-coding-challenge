@@ -9,11 +9,6 @@ I'm a 4th year Computer Science Student at the University of Toronto expected to
 <a href="https://www.linkedin.com/in/shreykumar/">profile</a> for more information! 
 
 # How to run
-1. Clone my repository<br>
-<code>$ git clone https://github.com/ShreyKumar/sortable-coding-challenge</code>
-2. Make sure you are in the right directory<br>
-<code>$ cd sortable-coding-challenge</code>
-3. Run the code!<br>
 <code>$ python3 main.py</code>
 
 You should get this output if everything runs smoothly:<br>
