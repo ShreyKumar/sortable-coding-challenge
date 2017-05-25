@@ -17,8 +17,7 @@ You should get this output if everything runs smoothly:<br>
 <code>Done!</code>
 
 # My Approah
-I've made many attempts of using object-oriented programming to approach this problem, but realized that it would make the problem too complicated and simplified it down to this approach.<br>
-The most effecient way of doing this is putting all the products inside a giant Array and using a divide and conquer algorithm to search through all the products and match it to its respective listing. I used a HashMap to map each Product's name to its listing. I found using a HashMap to be the easiest way to store the data because each product's listing can be accessed in O(1) worst case which would be a better alternative than traversing through another Array because it would be more innefficient.<br><br>
+The most effecient way of doing this is putting all the products inside a giant Array and using a divide and conquer algorithm to search through all the products and match it to its respective listing. I used a HashMap to map each Product's name to its listing. I found using a HashMap to be the easiest way to store the data because each product's listing can be accessed in constant time which would be a better alternative than traversing through another Array because it would be more innefficient.<br><br>
 
 Essentially, 
 1. <code>main.py</code> reads all the product information in <code>products.txt</code> and correctly parses them as Python Dictionaries, storing them in the <code>products</code> Array and creates an empty field in the <code>products_table</code> HashMap with its respective <code>product_name</code> attribute.
